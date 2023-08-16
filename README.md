@@ -9,7 +9,7 @@ Search for `W and в "large language model" whitepaper` on  Google or your favor
 
 ### Rare and chronic conditions and patient outcomes
 
-- Hepatitis-C (HCV) rate previously underestimated in Baby Boomers (while at Medivo, now Prognos.ai; the HCV poster (in this repo) can [also be found on Prognos' website](https://www.prognos.ai/wp-content/uploads/2015-DDW-Poster.pdf))
+- Hepatitis-C (HCV) rate previously underestimated in the Baby Boomers populace; the previous estimates by the CDC undershot positivity rates, failing to diagnose as many as 1 in 10 (~10%) of hep-C-positive Baby Boomers in large metropolitan areas in the United States (written while at Medivo, now Prognos.ai; the HCV poster (in this repo) can [also be found on Prognos' website](https://www.prognos.ai/wp-content/uploads/2015-DDW-Poster.pdf))
 
 ### University of Michigan School of Information
 
