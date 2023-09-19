@@ -5,7 +5,7 @@ This repo houses some of the academic papers from my time at the University of M
 ## In reverse chronological order
 
 ### Large language models and natural language processing
-Search for `W and в "large language model" whitepaper` on  Google or your favorite search engine. (Direct link to paper coming soon to this repository)
+Search for `W and в large language model whitepaper` on  Google or your favorite search engine. (Direct link to paper coming soon to this repository)
 
 ### Rare and chronic conditions and patient outcomes
 
